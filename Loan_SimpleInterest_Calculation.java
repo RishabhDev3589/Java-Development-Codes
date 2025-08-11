@@ -16,7 +16,7 @@ System.out.print("Your Total Amount is=");
 double R=(p+sum);
 System.out.println(R);
 System.out.println("Thank you \nJBMNMJ");
-
     }
 }
+
 
